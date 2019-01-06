@@ -1,0 +1,1 @@
+# Kinesis Spark Streaming template
